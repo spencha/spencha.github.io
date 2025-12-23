@@ -2,115 +2,90 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Spencer Hilligoss
+  given: Spencer
+  family: Hilligoss
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: PhD Student in Statistics
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Spencer Hilligoss is a PhD student in Statistics at the University of California, Irvine, 
+  advised by Dr. Annie Qu and Dr. Tianchen Qian. His research focuses on causal mediation 
+  analysis, representation learning, and statistical methods for mobile health and 
+  personalized medicine, with applications to Type 1 Diabetes.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of California, Irvine
+    url: https://www.stat.uci.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:shilligo@uci.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/spencha
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/spencer-hilligoss/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Representation Learning
+  - Statistical Machine Learning
+  - Personalized Medicine
+  - Mobile Health
+  - Causal Inference and Mediation Analysis
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Statistics
+    institution: University of California, Irvine
+    start: 2023-09-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Advised by Dr. Annie Qu and Dr. Tianchen Qian. Research focuses on causal mediation 
+      analysis and tensor methods for longitudinal health data.
+  - degree: BS Statistics and Operations Research
+    institution: University of North Carolina at Chapel Hill
+    start: 2019-08-01
+    end: 2023-05-14
+    summary: |
+      Coursework in Stochastic Modeling, Dynamic Decision Making, and Statistical Machine Learning.
+  - degree: BA Economics
+    institution: University of North Carolina at Chapel Hill
+    start: 2019-08-01
+    end: 2023-05-14
+    summary: |
+      Coursework in Financial Markets, International Economics, and Advanced Microeconomic Theory.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: T32 STEER in Biomedical Sciences Fellow
+    org: University of California, Irvine
+    start: 2025-08-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      NIH-funded fellowship supporting research at the intersection of statistics and biomedical sciences.
+  - role: PREDOC Summer Program
+    org: Harvard University, Opportunity Insights
+    start: 2022-06-01
+    end: 2022-08-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Data analytics training directed by economists Raj Chetty, John Friedman, and Nathaniel Hendren. 
+      Completed research paper on the lasting impact of HOLC redlining on minorities in New York.
 
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
+      - label: R
+        level: 5
       - label: Python
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Stata
+        level: 3
 
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+languages: []
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: T32 STEER in Biomedical Sciences Fellowship
+    awarder: NIH / University of California, Irvine
+    date: "2025-08-01"
+    summary: Training fellowship in biomedical data science.
