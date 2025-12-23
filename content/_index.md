@@ -81,7 +81,7 @@ sections:
         folders:
           - awards
     design:
-      view: card
+      view: compact
 
   - block: collection
     id: projects
