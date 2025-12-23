@@ -74,6 +74,16 @@ sections:
       view: card
 
   - block: collection
+    id: awards
+    content:
+      title: Awards & Fellowships
+      filters:
+        folders:
+          - awards
+    design:
+      view: card
+
+  - block: collection
     id: projects
     content:
       title: Projects
