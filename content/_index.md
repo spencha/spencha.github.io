@@ -73,15 +73,19 @@ sections:
     design:
       view: card
 
-  - block: collection
+  - block: markdown
     id: awards
     content:
-      title: Awards & Fellowships
-      filters:
-        folders:
-          - awards
+      title: 'Awards & Fellowships'
+      subtitle: ''
+      text: |-
+        **T32 STEER in Biomedical Sciences Fellow** (2025) — NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences, University of California, Irvine.
+
+        **Diversity Recruitment Fellowship** (2023) — Fellowship awarded to support doctoral studies in Statistics at the University of California, Irvine.
+
+        **PREDOC Summer Program** (2022) — Selected for competitive data analytics training program at Harvard University's Opportunity Insights, directed by economists Raj Chetty, John Friedman, and Nathaniel Hendren.
     design:
-      view: compact
+      columns: '1'
 
   - block: collection
     id: projects
