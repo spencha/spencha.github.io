@@ -3,8 +3,8 @@ title: 'Tensor Factorization Methods for Time-Varying Mediation Analysis in Cont
 
 authors:
   - me
-  - Annie Qu
-  - Tianchen Qian
+  - annie-qu
+  - tianchen-qian
 
 date: '2026-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'

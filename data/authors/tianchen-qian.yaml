@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: tianchen-qian
+is_owner: false
+name:
+  display: Tianchen Qian
+  given: Tianchen
+  family: Qian
+role: Assistant Professor of Statistics
+affiliations:
+  - name: University of California, Irvine
+    url: https://www.stat.uci.edu/

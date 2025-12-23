@@ -3,7 +3,7 @@ title: 'Autoencoder-Based Causal Mediation Analysis for High-Dimensional Time Se
 
 authors:
   - me
-  - Annie Qu
+  - annie-qu
 
 date: '2026-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
