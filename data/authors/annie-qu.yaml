@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: annie-qu
+is_owner: false
+name:
+  display: Annie Qu
+  given: Annie
+  family: Qu
+role: Professor of Statistics
+affiliations:
+  - name: University of California, Irvine
+    url: https://www.stat.uci.edu/
