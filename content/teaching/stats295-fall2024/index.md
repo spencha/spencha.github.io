@@ -21,6 +21,15 @@ authors:
 tags:
   - Teaching
   - Machine Learning
+  - Deep Learning
+  - Python
+  - R
 
 featured: true
 ---
+
+Delivered two guest lectures for STATS 295, a graduate-level special topics course in machine learning:
+
+- **Handling Data in R and Python, Web Scraping** — Covered data manipulation techniques across both languages and introduced web scraping methods for collecting data from online sources.
+
+- **PyTorch Tutorial for Deep Learning** — Provided a hands-on introduction to deep learning using PyTorch, covering neural network fundamentals and practical implementation.
