@@ -52,14 +52,24 @@ sections:
         featured_only: false
     design:
       view: citation
-      
+
   - block: collection
-    id: talks
+    id: presentations
     content:
-      title: Talks
+      title: Presentations
       filters:
         folders:
           - events
+    design:
+      view: card
+
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teaching
     design:
       view: card
 
