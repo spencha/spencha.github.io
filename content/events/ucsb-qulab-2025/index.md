@@ -13,7 +13,7 @@ date: '2025-11-06T00:00:00Z'
 date_end: '2025-11-06T00:00:00Z'
 all_day: true
 
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 authors:
   - me
