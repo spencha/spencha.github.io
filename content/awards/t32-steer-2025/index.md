@@ -6,10 +6,11 @@ event_url: ''
 
 location: University of California, Irvine
 
-summary: NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences.
+summary: NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences. Renewed for a second year in 2026.
 abstract: ''
 
 date: '2025-08-01T00:00:00Z'
+date_end: '2027-07-31T00:00:00Z'
 all_day: true
 
 publishDate: '2025-01-01T00:00:00Z'
@@ -25,4 +26,4 @@ tags:
 featured: true
 ---
 
-Selected as a T32 STEER in Biomedical Sciences Fellow, an NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences at the University of California, Irvine.
+Selected as a T32 STEER in Biomedical Sciences Fellow, an NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences at the University of California, Irvine. Renewed for a second year in 2026.

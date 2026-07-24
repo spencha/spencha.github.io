@@ -24,4 +24,6 @@ tags:
   - Type 1 Diabetes
 
 featured: true
+
+url_slides: 'uploads/2025.11.06_UCSB_Presentation.pdf'
 ---

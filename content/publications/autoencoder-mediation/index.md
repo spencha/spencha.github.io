@@ -1,21 +1,21 @@
 ---
-title: 'Autoencoder-Based Causal Mediation Analysis for High-Dimensional Time Series: Application to Postprandial Glycemic Response in Type 1 Diabetes'
+title: 'Causal Mediation Pathways in Continuous Postprandial Glucose Monitoring for Type 1 Diabetes Patients'
 
 authors:
   - me
   - annie-qu
 
-date: '2026-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2026-03-16T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 
 publication_types: ['article']
 
-publication: '*Working Paper*'
-publication_short: ''
+publication: '*npj Metabolic Health and Disease* (Accepted)'
+publication_short: '*npj Metab. Health Dis.*'
 
 abstract: ''
 
-summary: Developing autoencoder-based methods to understand how meal carbohydrate intake affects post-meal glucose trajectories through insulin bolusing behavior in Type 1 Diabetes patients.
+summary: Autoencoder-based causal mediation methods for understanding how meal carbohydrate intake affects post-meal glucose trajectories through insulin bolusing behavior in Type 1 Diabetes patients.
 
 tags:
   - Causal Inference
@@ -24,4 +24,8 @@ tags:
   - Type 1 Diabetes
 
 featured: true
+
+# Preprint on medRxiv. Replace with the official npj DOI once the article is published.
+url_preprint: 'https://www.medrxiv.org/content/10.64898/2026.03.16.26348520v2'
+# doi: ''
 ---

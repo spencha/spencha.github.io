@@ -13,7 +13,7 @@ sections:
       text: ''
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV.pdf
       headings:
         about: ''
         education: ''
@@ -74,12 +74,24 @@ sections:
       view: card
 
   - block: markdown
+    id: mentorship
+    content:
+      title: 'Mentorship'
+      subtitle: ''
+      text: |-
+        **Bryson Harris** (UC Santa Barbara) — Mentoring on financial time series modeling through weekly research meetings.
+
+        **Daniel You** (UC Santa Barbara) — Mentoring on generative diffusion modeling with an application to soccer tactics through weekly research meetings.
+    design:
+      columns: '1'
+
+  - block: markdown
     id: awards
     content:
       title: 'Awards & Fellowships'
       subtitle: ''
       text: |-
-        **T32 STEER in Biomedical Sciences Fellow** (2025) — NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences, University of California, Irvine.
+        **T32 STEER in Biomedical Sciences Fellow** (2025, renewed 2026) — NIH-funded training fellowship supporting research at the intersection of statistics and biomedical sciences, University of California, Irvine.
 
         **Diversity Recruitment Fellowship** (2023) — Fellowship awarded to support doctoral studies in Statistics at the University of California, Irvine.
 
@@ -107,6 +119,8 @@ sections:
         Feel free to reach out via email at [shilligo@uci.edu](mailto:shilligo@uci.edu).
 
         **Office**: Department of Statistics, University of California, Irvine
+
+        Download my [full CV](uploads/CV.pdf) or [one-page résumé](uploads/resume.pdf).
     design:
       columns: '1'
 ---
