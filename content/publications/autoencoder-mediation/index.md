@@ -26,6 +26,8 @@ tags:
 featured: true
 
 # Preprint on medRxiv. Replace with the official npj DOI once the article is published.
-url_preprint: 'https://www.medrxiv.org/content/10.64898/2026.03.16.26348520v2'
+links:
+  - type: preprint
+    url: 'https://www.medrxiv.org/content/10.64898/2026.03.16.26348520v2'
 # doi: ''
 ---

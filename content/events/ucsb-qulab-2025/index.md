@@ -25,5 +25,7 @@ tags:
 
 featured: true
 
-url_slides: 'uploads/2025.11.06_UCSB_Presentation.pdf'
+links:
+  - type: slides
+    url: 'uploads/2025.11.06_UCSB_Presentation.pdf'
 ---

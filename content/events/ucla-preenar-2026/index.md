@@ -25,5 +25,7 @@ tags:
 
 featured: true
 
-url_slides: 'uploads/2026.03.11_UCLA_Pre-ENAR_Presentation.pdf'
+links:
+  - type: slides
+    url: 'uploads/2026.03.11_UCLA_Pre-ENAR_Presentation.pdf'
 ---
