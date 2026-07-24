@@ -11,9 +11,11 @@ sections:
     content:
       username: me
       text: ''
-      button:
-        text: Download CV
-        url: uploads/CV.pdf
+      buttons:
+        - text: Download CV
+          url: uploads/CV.pdf
+        - text: Download Résumé
+          url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -119,8 +121,6 @@ sections:
         Feel free to reach out via email at [shilligo@uci.edu](mailto:shilligo@uci.edu).
 
         **Office**: Department of Statistics, University of California, Irvine
-
-        Download my [full CV](uploads/CV.pdf) or [one-page résumé](uploads/resume.pdf).
     design:
       columns: '1'
 ---

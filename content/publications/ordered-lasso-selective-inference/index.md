@@ -3,7 +3,7 @@ title: 'Selective Inference for Time-Varying Causal Effect Moderation via the Or
 
 authors:
   - me
-  - A. Saha
+  - arka-saha
   - tianchen-qian
 
 date: '2026-06-01T00:00:00Z'

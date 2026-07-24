@@ -11,7 +11,7 @@ publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['article']
 
 publication: '*npj Metabolic Health and Disease* (Accepted)'
-publication_short: '*npj Metab. Health Dis.*'
+publication_short: ''
 
 abstract: ''
 
