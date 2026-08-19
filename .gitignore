@@ -67,3 +67,16 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# ============================================================================
+# Job Applications & LaTeX Artifacts
+# ============================================================================
+
+# Private application materials (cover letters, manuscripts, tracker) — never publish
+applications/
+neurips submission/
+
+# LaTeX build artifacts
+*.aux
+*.out
+*.synctex.gz
