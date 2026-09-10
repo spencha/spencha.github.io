@@ -5,12 +5,12 @@ authors:
   - me
   - annie-qu
 
-date: '2026-03-16T00:00:00Z'
+date: '2026-09-10T00:00:00Z'
 publishDate: '2026-01-01T00:00:00Z'
 
 publication_types: ['article']
 
-publication: '*npj Metabolic Health and Disease* (Accepted)'
+publication: '*npj Metabolic Health and Disease* **4**, 35 (2026)'
 publication_short: ''
 
 abstract: ''
@@ -25,9 +25,9 @@ tags:
 
 featured: true
 
-# Preprint on medRxiv. Replace with the official npj DOI once the article is published.
 links:
   - type: preprint
     url: 'https://www.medrxiv.org/content/10.64898/2026.03.16.26348520v2'
-# doi: ''
+
+doi: '10.1038/s44324-026-00127-z'
 ---
