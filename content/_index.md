@@ -38,7 +38,7 @@ sections:
       text: |-
         My research develops statistical and machine learning methodology for valid inference and prediction on heterogeneous, multi-modal time series, with applications spanning mobile health, personalized medicine, and financial data.
 
-        **Generative Diffusion Modeling for Heterogeneous Time Series** — Developing mixed-effects denoising diffusion models that separate population-level structure from subject-level variation, mirroring the decomposition $y = X\beta + Zb$, benchmarked on clinical, mobile sensing, and equities data. *(Manuscript under review.)*
+        **Generative Diffusion Modeling for Heterogeneous Time Series** — Developing mixed-effects denoising diffusion models that separate population-level structure from subject-level variation in the spirit of a mixed-effects decomposition, benchmarked on clinical, mobile sensing, and equities data. *(Manuscript under review.)*
 
         **Causal Mediation Analysis for Type 1 Diabetes** — Autoencoder-based methods that compress multi-modal longitudinal data into latent representations satisfying the assumptions required for causal mediation analysis, used to study how meal intake and insulin dosing shape post-meal glucose trajectories.
 
