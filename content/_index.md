@@ -38,7 +38,7 @@ sections:
       text: |-
         My research develops statistical and machine learning methodology for valid inference and prediction on heterogeneous, multi-modal time series, with applications spanning mobile health, personalized medicine, and financial data. Current projects include:
 
-        **Modality Disagreement in Multi-Modal Models** — Developing methodology to quantify disagreement across data modalities and to test its significance in modeling the output variable.
+        **Statistical Inference for Cross-Modal Disagreement** — Treating disagreement between data modalities as the estimand itself, rather than as noise for integration methods to suppress. The framework covers identification, per-subject uncertainty quantification, FDR-controlled detection of which units disagree, and tests for whether disagreement affects downstream outcomes.
 
         **Selective Inference for Time-Varying Causal Effects** — Developing procedures that remain valid when models are chosen from the data, applied to identifying time-varying moderators of causal effects via the ordered lasso.
     design:
