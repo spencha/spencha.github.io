@@ -14,11 +14,12 @@ status:
 role: PhD Candidate in Statistics
 bio: |
   Spencer Hilligoss is a PhD candidate in Statistics at the University of California, Irvine,
-  advised by Dr. Annie Qu and Dr. Tianchen Qian. His research develops methods for causal
-  mediation analysis, representation learning, and generative modeling of complex time series,
-  with applications spanning personalized medicine, mobile health, and financial data. His
-  work on causal mediation in continuous glucose monitoring was recently published in
-  npj Metabolic Health and Disease.
+  advised by Dr. Annie Qu and Dr. Tianchen Qian. His research develops statistical and machine
+  learning methodology for valid inference and prediction on heterogeneous, multi-modal time
+  series, spanning causal mediation analysis, generative diffusion modeling, and selective
+  inference, with applications to mobile health, personalized medicine, and financial data.
+  His work on causal mediation in continuous glucose monitoring was published in
+  npj Metabolic Health and Disease, and he is pursuing a career in quantitative research.
 
 affiliations:
   - name: University of California, Irvine
@@ -37,11 +38,11 @@ links:
     label: Google Scholar
 
 interests:
-  - Representation Learning
-  - Statistical Machine Learning
-  - Personalized Medicine
-  - Mobile Health
+  - Generative Modeling and Diffusion
   - Causal Inference and Mediation Analysis
+  - Selective Inference
+  - Statistical Machine Learning
+  - Financial and Mobile Health Time Series
 
 education:
   - degree: PhD Statistics

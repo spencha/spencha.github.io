@@ -36,9 +36,15 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        My research focuses on developing statistical methods for healthcare applications, particularly in the context of mobile health and personalized medicine. I am currently working on two main projects:
+        My research develops statistical and machine learning methodology for valid inference and prediction on heterogeneous, multi-modal time series, with applications spanning mobile health, personalized medicine, and financial data.
 
-        **Causal Mediation Analysis for Type 1 Diabetes** — Developing autoencoder-based methods to understand how meal carbohydrate intake affects post-meal glucose trajectories through insulin bolusing behavior.
+        **Generative Diffusion Modeling for Heterogeneous Time Series** — Developing mixed-effects denoising diffusion models that separate population-level structure from subject-level variation, mirroring the decomposition $y = X\beta + Zb$, benchmarked on clinical, mobile sensing, and equities data. *(Manuscript under review.)*
+
+        **Causal Mediation Analysis for Type 1 Diabetes** — Autoencoder-based methods that compress multi-modal longitudinal data into latent representations satisfying the assumptions required for causal mediation analysis, used to study how meal intake and insulin dosing shape post-meal glucose trajectories.
+
+        **Modality Disagreement in Multi-Modal Models** — Methodology to quantify disagreement across data modalities and test its significance in modeling the output variable.
+
+        **Selective Inference for Time-Varying Causal Effects** — Valid inference when models are chosen from the data, applied to causal effect moderation via the ordered lasso.
 
         **Tensor-Based Reinforcement Learning for Adaptive Insulin Dosing** — Building personalized treatment recommendation frameworks using tensor factorization methods for longitudinal continuous glucose monitoring data.
     design:
