@@ -36,17 +36,11 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        My research develops statistical and machine learning methodology for valid inference and prediction on heterogeneous, multi-modal time series, with applications spanning mobile health, personalized medicine, and financial data.
+        My research develops statistical and machine learning methodology for valid inference and prediction on heterogeneous, multi-modal time series, with applications spanning mobile health, personalized medicine, and financial data. Current projects include:
 
-        **Generative Diffusion Modeling for Heterogeneous Time Series** — Developing mixed-effects denoising diffusion models that separate population-level structure from subject-level variation in the spirit of a mixed-effects decomposition, benchmarked on clinical, mobile sensing, and equities data. *(Manuscript under review.)*
+        **Modality Disagreement in Multi-Modal Models** — Developing methodology to quantify disagreement across data modalities and to test its significance in modeling the output variable.
 
-        **Causal Mediation Analysis for Type 1 Diabetes** — Autoencoder-based methods that compress multi-modal longitudinal data into latent representations satisfying the assumptions required for causal mediation analysis, used to study how meal intake and insulin dosing shape post-meal glucose trajectories.
-
-        **Modality Disagreement in Multi-Modal Models** — Methodology to quantify disagreement across data modalities and test its significance in modeling the output variable.
-
-        **Selective Inference for Time-Varying Causal Effects** — Valid inference when models are chosen from the data, applied to causal effect moderation via the ordered lasso.
-
-        **Tensor-Based Reinforcement Learning for Adaptive Insulin Dosing** — Building personalized treatment recommendation frameworks using tensor factorization methods for longitudinal continuous glucose monitoring data.
+        **Selective Inference for Time-Varying Causal Effects** — Developing procedures that remain valid when models are chosen from the data, applied to identifying time-varying moderators of causal effects via the ordered lasso.
     design:
       columns: '1'
 

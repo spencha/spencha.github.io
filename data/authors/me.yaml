@@ -49,8 +49,8 @@ education:
     institution: University of California, Irvine
     start: 2023-09-01
     summary: |
-      Advised by Dr. Annie Qu and Dr. Tianchen Qian. Research focuses on causal mediation 
-      analysis and tensor methods for longitudinal health data.
+      Advised by Dr. Annie Qu and Dr. Tianchen Qian. Research focuses on generative modeling,
+      causal inference, and selective inference for heterogeneous time series.
   - degree: BS Statistics and Operations Research
     institution: University of North Carolina at Chapel Hill
     start: 2019-08-01
